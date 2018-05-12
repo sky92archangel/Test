@@ -1,0 +1,52 @@
+﻿
+L1
+
+	TEXTO I  ¿Cómo te llamas?
+
+
+		Ana : Hola , buenos días.
+
+		Paco : Buenos días . Yo soy Paco . Y tú,¿cómo te llamas?
+
+		Ana : Me llamo Ana .Ellos son mis amigos . Ella se llama Susana y él se llama Tomás.
+
+		Paco : ¿Son ustedes españoles?
+
+		Ana : Yo soy española , Susanna es cubana y Tomás , chileno.
+
+		Paco: Encantado de conocerlos.
+
+		Ana : Mucho gusto ¿Es usted profesor?
+	
+		Paco : Sí , soy profesor de chino.
+
+		Ana : Ah , usted es nuestro profesor de chino. Entonces , somos sus alumnos .
+
+	
+
+	TEXTO II ¿Quién es el chico?
+
+
+		Ana y Li Meilan son amigas . Ana es mexicana y Li Meilan es china .La dos son estudiantes.
+
+		Ana : Meilan , ¿eres amiga de esos jóvenes?
+
+		Li : Sí , soy amiga de ellos .
+	
+		Ana: ¿Quién es ese chico? ¿Se llama Manolo?
+
+		Li : Sí ,él se llama Manolo .
+
+		Ana : ¿Es cubano?
+
+		Li : No,no es cubano, es panameño.
+
+		Ana :  ¿No se llama Elena esa chica?
+
+		Li : No , no se llama Elena .Ella es Susana.
+
+		Ana: ¿Son novios?
+
+		Li : ¿Quiénes ? ¿Elena y Manolo? ¡Qué va! Solo son amigos.
+
+

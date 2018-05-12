@@ -1,0 +1,640 @@
+﻿UNIDAD 10
+
+I 语法
+
+	一 命令式第一人称复数和第二人称复数的亲昵式
+	二 不规则的动词SABER SER TRAER VER 的命令式变位 
+	三 直接宾语从句
+ 
+
+	
+	一 肯定命令式：请求或命令 直接对话 五个人称  
+
+	vosotros 命令式	全部规则
+
+		cantar		cantad
+		correr		corred
+		escribir	escribid
+
+		estar		eatad
+		ser		sed	
+		ir		id
+
+	nosotros 命令式
+
+		规则变化 
+		
+		交叉变化	
+
+			-ar	-emos
+			-er,ir	-amos	
+		
+			correr		corramos
+			trabajar	trabajemos
+			pasar		pasemos	
+			estudiar	estudiemos
+			
+			beber		bebamos	
+			barrer		barramos
+			
+			subir		subamos	
+			abrir		abramos
+			resistir	resistamos
+		
+		不规则变位1	陈述时现在时YO不规则（e，o变化先不看 yo 去o 加相应后缀）
+				先变为yo陈述时变位 然后根据原形结尾交叉变位
+
+			hacer		hago		hagamos	
+			venir		vengo		vengamos
+			poner		pongo		pongamos
+			decir		digo		digamos
+
+			salir		salgo		salgamos
+			tener		tengo		tengamos
+			conocer		conozco		conozcamos
+			ver		veo		veamos
+
+		 不规则变位2  e-i 继续 e-i	e-ie  o-ue 不变
+
+			pensar		pensemos
+			empezar		empecemos
+			volver		volvamos
+			acostar		acostemos			
+
+			pedir		pidamos
+			vestir		vistamos
+			seguir		sigamos
+			servir		sirvamos
+			corregir	correjamos
+
+		不规则变位3
+
+			sentir 		sintamos
+			preferir	prefiramos
+			dormir		duramamos
+			morir		muramos		
+
+		不规则变位4 完全不规则
+
+			saber		sepamos
+			ser		seamos	
+			ir		vayamos	vamos
+
+		不规则变位5  正字法
+
+			empezar		empecemos
+			practicar	practiquemos
+			pagar		paguemos
+			coger		cojamos
+			corregir	corrijamos
+
+	我们命令式定位 结尾 se 去 s
+
+		decírselo	digámoselo
+		entregárselo	entregémoselo
+		dejárselo	dejémoselo
+
+		自复 prnl.我们去s
+
+		levantarse	levantémonos
+		acostarse	acostémonos
+		ponerse		pongámonos
+
+		lavarse		lavémonos
+		vestirse	vistámonos
+		irse		vámonos
+
+		自复 prnl.你们去d	
+
+		lenvantarse	lenvantaos
+		acostarse	acostaos
+		ponerse		poneos
+	
+		lavarse		lavaos
+		ducharse	duchaos
+		arreglarse	arreglaos
+
+		vestirse	vestíos
+		irse		idos
+
+
+	二 不规则的动词SABER SER TRAER VER 的命令式变位
+
+		saber
+
+		tú		sabe				
+		vosotros	sabed
+		usted		sepa
+		ustdes		sepan
+		nosotros	sepamos
+ 
+
+		ser
+
+		tú		sé
+		vosotros	sed
+		usted		sea
+		ustdes		sean
+		nosotros	seamos
+
+
+		traer
+
+		tú		trae 
+		vosotros	traed
+		usted		traiga
+		ustdes		traigan
+		nosotros	traigamos
+
+
+		ver
+
+		tú		ve
+		vosotros	ved
+		usted		vea
+		ustdes		vean
+		nosotros	veamos
+		
+		
+
+	三 直接宾语从句
+
+		Sabemos eso
+
+		Sabemos que Santi va a casarse
+
+		陈述句 que
+	
+		1.1 主语动词 需要是及物动词
+
+			decir pensar oír preguntar contestar saber ver creer
+
+		1.2 que 不省略 不重读
+
+			
+			Me dice que no va a venir mañana
+
+			¿No oyes que Santi habla por teléfono?
+
+			Creo que va a volver a llamarme
+
+		2 一般疑问句 si
+
+			me pregunta si necesito su aynda
+
+			Les pregunto a ellos si puenden llegar puntualmente mañana			
+
+		
+		3 特殊疑问句
+
+			¿Puedes decirme qué ahora es?			
+
+			Necesito saber dónde vives
+
+		3.1 口语中依旧加que
+
+			Necesito saber que dónde vives
+
+			Nos preguntan que ddónde vivimos
+
+		3.2 从句动词 主句动词主语一致 从句使用动词原形
+
+			No sé qué decirte 
+			No sabemos cómo hacerlo
+			
+
+
+II 单词
+
+
+	ropa  f.衣服  集合名词  不适用复数
+
+	comprador	购物者		comprar 买
+
+	vendedor	售货员		vender  卖
+
+
+	invierno	冬天
+
+		¿Cómo es el invienrno en Pekín?
+		Es muy frío
+
+		Vacaciones de invierno	寒假
+
+	LAS ESTACIONES DEL AÑO		一年四季
+
+		primavera	春天
+		verano		夏天
+		otoño		秋天
+		invierno	冬天
+
+	frío	
+
+		1.adj. 冷的
+			El invierno del Barcelona no es muy frío
+	
+			No tomo agua fría	(caliente 热的)
+
+			En invierno me lavo con agua fría
+		
+			El café está frío
+
+
+		2.m. 冷
+
+			¿Tienes frío?
+		
+			Sí , tengo un poco de frío
+
+			Hoy hace mucho frío
+
+			Hoy hace un poco de frío
+
+	Madrid
+
+	en efecto	确实 的确
+
+	temperatura	温度
+
+	época		时期 时代
+			
+	abrigar		
+
+		命令式
+				abriga		abrigue		
+		abriguemos	abrigad		abriguen
+
+		1.tr.	给...穿暖和	abrigar a uno
+
+			Jaime,estos días hace bastante frío . Abriga bien a la niña al llevarla al colegio
+
+			Como el niño quiere salir a jugar , la abuela lo abriga con un suéter grueso   	
+			小孩想出去玩，奶奶就给他穿厚毛衣
+
+			Espera , Tomasito , te voy a abrigar con una chaqueta de tela gruesa 
+
+		2. intr.	保暖  abriga algo 
+
+			La camisa que llevas no abriga nada , piensa que la temperatura de hoy es muy baja .
+
+			Si quieres ir a Alemania , no te aconsejo esos pantalones : no abrigan
+
+			La ropa que tengo abriga mucho , por eso ne me importa el frío
+
+		3 prnl. 	穿暖和 uno se abriga
+
+			Chicos , abrigaos bien , ya estamos en invierno
+
+			Abrígate bien,ponte un jersey , que afuera hace mucho frío.
+
+			No te preocupes : si baja mucho la temperatura y sabemos con qué abrigarnos
+
+		abrigado p.p. 穿暖和  保暖
+
+			¡Qué bien abrigados vienen ustedes!
+
+			¡Eh , chicas , vais poco abrigadas! La temperatura de hoy es muy baja.
+
+			¿Crees que estoy bien abrigado para ir a esa zona?
+
+	mostrar	出示展示
+
+		muestro		muestras	muestra
+		mostramos	mostráis	muestan
+
+				muestra		muestre
+
+		mostremos	mostrad		muestren
+
+		1. 出示 展示
+
+			Muéstreme su pasaporte , por favor
+	
+			¿Puedes mostrarme esta falda?
+
+			Muestra mucha al verme.
+		
+		2.表明
+
+			Sus palabras muestran que no está contento con el trabajo.
+
+	suéter	amer.	m.
+	jersey	esp.	m.
+	毛衣
+
+	quedar
+
+		0.quedarle a uno bien (mal)  某人穿戴... 合适与否
+
+		a uno le queda bien algo
+
+			¿Cómo te queda el abrigo?
+		
+			¿Te queda bien?
+
+		1.intr. 剩下 还有
+
+			a uno le que da algo 
+
+				Todavía quedan tres días
+
+				Nos queda tiempo
+
+		2 prnl. 呆在 留在			
+		
+			Se queda en casa todos los días
+
+			Me queda en la oficina todos los días
+
+		3.intr. 位于
+
+			Nuestra empresa no queda en el centro de la ciudad
+
+			Mi casa queda muy cerca de la oficina.	
+
+
+	oscuro		adj.黑暗的
+
+	obscure		adj.黑暗的
+
+		color obscuro
+
+		gris oscuro	
+	
+	probar
+	
+	probarse	
+
+		me pruebo	te pruebas	se prueba
+		nos probamos	os probaís	se prueban
+
+				pruébate	pruébese
+		probémonos	probaos		pruébense
+
+	
+
+		1.tr 尝试
+
+			La sopa está muy buena . Pruébala.
+
+		2.prnl.试穿
+
+			Si quieres , puedes probarte este abrigo
+
+	Probador	m.试衣间
+
+
+	detrás		adv.在后面
+
+			¿Qué hay detrás?
+
+		detrás de ...  在...之后
+
+			¿Qué hay detrás de la cortina?
+
+			Se sienta detrás de mí.
+
+	
+	Sentarle a uno bien(mal)  
+
+		1. 衣物等 某人相配	a uno le sienta bien algo
+
+			Le sienta a usted bien el color 
+		
+		2.饮食对某人合宜
+
+			No me sienta bien el café
+
+	deber
+
+		tr.欠（付给某人...钱）  deber algo a uno
+
+			Me debes un café
+			
+			Me debes cien euros
+
+			¿Cuánto te debo?			
+
+	chaqueta	f.夹克衫
+
+	pantalones	m.pl.裤子
+
+	tela		f.布料
+
+	grueso		adj.大的 粗的
+
+		árbol grueso 
+
+	seguir
+
+		sigo		sigues		sigue
+		seguimos	seguís		siguen
+
+				sigue		siga
+		segamos		seguid		sigan
+
+		1.tr. intr. 继续
+
+			Ya no puedo seguir el estudio.
+
+			Sigue la lluvia.
+			
+			Santi , sigue.
+
+			siga usted por este camino 
+		
+		2.tr.跟随
+
+			Sígueme
+
+			Habla más despacio,no puedo seguirte
+
+	abrigo	m.大衣
+
+	impermeable	adj.防水 	m.雨衣
+
+	lluvia		f.雨
+
+	Caja	f. 收银台 盒子
+
+		Pague en la caja , por favor 
+
+
+	elegir	
+
+		elijo		eliges		elige
+		elegimos	elegís		eligen
+
+				elige		elija
+		elegamos	elegid		elijan
+	
+		tr. 挑选
+
+			elegir algo de / entre
+
+			Elijo regalos para ti
+	
+			Elige una entre estas diez preguntas
+
+	a su dispisición	听您吩咐
+
+		Nos tiene asu dispisición
+
+	cualquiera	adj.任何一个
+
+		cualqueier + 单数s.
+
+		un/una + 单数s. + cualquiera
+		
+			cualqueier libro
+			un libro cualquiera
+
+			cualquier habitación
+			una habitación cualquiera
+
+			Puedes llamarme a cualquier hora
+
+	cualquiera	pron.任何一个
+
+
+		Puedes vivir en cualquiera de esta habitaciones
+
+		Elige cualquiera de estos regalos.
+
+	amable	adj.和蔼的 客气的
+
+		Es una señora muy amable
+
+		Es usted muy amable
+
+		
+
+
+	
+
+	encargo 	委托
+
+	sonar		intr.响
+
+		sueno		suenas		suena
+		sonamos		sunáis		suenan
+
+				suuena		suene
+		sonemos		sonad		suenen	
+
+	
+		suena el timbre  despertador	teléfono
+
+
+	supermercado	m.超市
+
+	per		m.双 对	
+
+	zapato		m.鞋
+
+
+		un par de zapatos一双鞋
+		un par de horas 泛指几个小时
+		un par de días	泛指几天
+
+	sección		f.部门
+
+	alimento	m.食品
+
+	barra		f.长条形
+
+	kilo		m.公斤
+
+	arroz		m.水稻大米 米饭
+
+	aceite		m.油
+
+	leche		f.牛奶
+		un litro de leche  一升牛奶
+
+	yogur		m.酸奶
+
+	queso		m.奶酪
+
+	mantequilla	f.黄油
+ 
+	mermelada	f.果酱
+
+	recordar	
+
+		recuerdo	recuerdas	recuerda
+		recordamos	recordáis	recuerdan
+	
+				recuerda	recurede
+		recordemos	recordad	recureden
+
+		1. tr.记得   recordar algo   - a uno
+
+			Ya no recuerdo el nomebre de tu novio ¿Cómo se llama?
+
+			Tu tío necesita un abrigo ¿recuerdas su talla ?
+
+			¡Cómo no voy a recordar aquel amigo tuyo !
+
+		2.tr.提醒
+
+			Te recuerdo que tienes que comprar dos kilos de carne un kilo de arroz.tres barras de pan ,una botella de aceite,
+			ah,también : leche , queso y mermelada.
+
+			Al salir de la sección de alimentos , 
+			Berta recuerda a su marido que todavía tienen que ir a comprar camisas,calzoncillos , chaquetas y pantalones en la sección de ropa.
+
+	apuntar		tr.做笔记
+
+	abcho 		adj.宽的
+
+
+补充词汇
+
+	barato		adj.便宜
+
+	calcetines	m.pl.袜子
+
+	calzoncillps	m.p.内裤
+
+	camisa		f.男士衬衫
+
+	caro		adj.贵
+	
+	corto		adj.短
+
+	estrecho	adj.窄
+
+	gorro		m.帽子
+
+	largo		adj.长
+
+	medias		f.pl.女式长袜
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

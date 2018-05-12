@@ -1,0 +1,696 @@
+﻿UNIDAD 11
+	 
+语法
+
+	一、否定命令式
+	二、关系代词que与定语从句
+	三、副动词与动词短语ESTAR+GERUNDIO
+	四、不规则动词JUGAR的陈述式现在时变位
+
+
+
+	一、否定命令式
+
+		请求或命令
+		直接对话
+		五个人称
+	
+		否定命令式动词变位=虚拟式现在时变位
+
+		yo	tú	él	ella	usted	vosotros	nosotros	ellos 	ellas	ustedes
+
+		
+		1、规则交叉变位
+
+			-ar : 		-e -es -emos -éis -en
+
+			-er,-ir :	-a -as -amos -áis -an
+
+			tomar
+
+			tome	tomes	tome
+			tomemos	toméis	tomen
+
+			estudiar
+
+			estudie		estudies	estudie	
+			estudiemos	estudiéis	estudien
+
+			apuntar
+
+			apunte		apuntes		apunte
+			apuntemos	apuntéis	apunten
+
+			comer
+
+			coma		comas		coma
+			comamos		comáis		coman
+
+			deber
+
+			deba		debas		deba	
+			debamos		debáis		dedan
+
+			abrir
+
+			abra		abras		abra
+			abramos		abráis		abran
+
+		2、不规则 yo和其不规则：去o+后缀
+
+			hacer
+
+			haga		hagas		haga
+			hagamos		hagáis		hagan
+
+			decir
+
+			diga		digas		diga
+			digamos		digáis		digan
+
+			venir
+
+			venga		vengas		vengas
+			vengamos	vengáis		vengan
+
+			conocer
+
+			conozca		conozcas	conozca
+			conozcamos	conozcáis	conozcan
+
+			ver
+
+			vea		veas		veas
+			veamos		veáis		vean
+
+		3、不规则e-ie o-ue  （jugar） 我们你们不变位
+
+			querer
+			
+			quiera		quieras		quiera
+			queramos	queráis		quieran
+
+			pensar
+	
+			piense		pienses		piense
+			pensemos	penséis		pensen
+
+			entender
+
+			entienda	entiendas	entienda
+			entendamos	entendáis	entiendan
+
+			poder
+	
+			pueda		puedas		pueda
+			podamos		podáis		puedan
+
+			volver
+		
+			vuelva		vuelvas		vuelva
+			volvamos	volváis		volvan
+
+			jugar
+
+			juegue		juegues		juegue
+			juguemos	juguéis		jueguen
+
+		4、不规则 e-i 全部 e-i
+
+			pedir	
+			
+			pida		pidas		pida
+			pidamos		pidáis		pidan
+
+			vestir
+
+			vista		vistas		vista
+			vistamos	vistáis		vistan
+
+			corregir
+
+			corrija		corrijas	corrija
+			corrijamos	corrijáis	corrijan
+
+			servir
+		
+			sirva		sirvas		sirva
+			sirvamos	sirváis		sirvan
+
+			seguir	
+			
+			siga		sigas		siga
+			sigamos		sigáis		sigan
+
+		4、不规则  sentir	preferir	dormir	morir
+	
+			sentir
+
+			sienta		sientas		sienta
+			sintamos	sintáis	sientan
+
+			preferir
+	
+			prefiera	prefieras	prefiera
+			prefiramos	prefiráis	prefieran
+
+			dormir
+
+			durma		durmas		durma
+			dumamos		dumáis		durman
+
+			morir
+
+			muera		mueras		muera
+			muramos		muráis		mueran
+		
+ 		5、不规则 ir ser saber haber estar dar
+
+			ir
+
+			vaya	 	vayas		vaya
+			vayamos		vayáis		vayan
+
+			ser
+	
+			sea		seas		sea
+			seamos		seáis		sean
+
+			saber
+
+			sepa		sepas		sepa
+			sepamos		sepáis		sepan
+
+			haber
+
+			haya		hayas		haya
+			hayamos		hayáis		hayan
+
+			estar
+
+			esté		estés		esté
+			estemos		estéis		estén
+
+			dar
+
+			dé		des		dé
+			demos		déis		den
+
+		6、保证发音
+
+			coger
+
+			coja		cojas		coja
+			cojamos		cojáis		cojan
+
+			corregir
+
+			corrija		corrijas	corrija
+			corrijamos	corrijáis	corrijan
+
+			empenzar
+
+			empience	empiences	empiece
+			empencemos	empencéis	empiecen
+
+			pagar
+
+			pague		pagues		pague
+			paguemos	paguéis		paguen
+
+			seguir
+
+			siga		sigas		siga
+			sigamos		sigáis		sigan
+	
+		否定命令式
+
+		1 否定句 别做 不许做 不要做
+
+		2 宾格 与格 自复代词位置 否定命令式前 与之分写
+
+			ven aquí	no vengas aquí
+		
+			pon la mesa	no pongas la mesa
+
+			levántate	no te levántes	
+
+			dígaselo	no se lo diga
+ 
+
+			vámosnis	no nos vayamos
+			
+			acostaos	no os acostéis
+
+			escríbalo	no lo escriba
+
+			dádmelo		no me lo deis
+
+	二、关系代词que与定语从句
+
+		Conozco a la chica guapa
+
+		Conozco a la chica que lleva falda
+
+		que:不省略 不重读
+
+			que 代替先行词 在后边从句中做主语宾语或其他成分
+
+			Es un libro que interesa mucho a estudiantes universitarios 
+
+			¿De quién son las llaves que están sobre de la mesa?
+
+			Habla con nosotros de los problemas que tenemos en el estudio
+
+			¿Es de hoy el periódico que lees?
+
+		限定性定语从句  VS   解释性定语从句
+
+			无“，”				有“，”
+
+			Es una muchacha que canta muy bien
+
+			No entiendo las palabras que dices
+
+			Este televisor , que es muy barato , tiene bueno calidad.
+
+			Mi primo , que siempre se queja de todos , tiene pocos amigos.
+
+	三、副动词与动词短语 ESTAR + GERUNDIO
+
+		1.规则变位 
+
+			-ar：rando
+			-er，-ir：-iendo
+
+			inf. --> m.
+			p.p.--> adj.
+
+			cantar		cantando
+			corre 		corriend
+			escribir	escribiendo
+
+			copiando	copar
+			comiendo	comer
+			discutiendo discutir
+
+			ser 		siendo
+			tener		teniendo
+
+		2.不规则变位一
+
+			decir		diciendo
+			venir		viniendo
+			poder		pudiendo
+
+		3.不规则变位二
+
+			pedir		pidiendo
+			vestir		vistiendo
+			servir		sirviendo
+
+			corregir	corrigiendo
+			seguir		siguiendo
+
+		4.不规则变位三
+
+			sentir		sintiendo	
+			preferir	prefiriendo
+			dormir		durmiendo
+			morir		muriendo
+
+		5.不规则变位四
+
+			-元音+er/ir
+
+			leer	leyendo
+			ir 		yendo
+			traer	trayendo
+			huir	huyendo
+
+
+		6.副动词ger. 无性数变化
+
+			estar+ger. 正在做...
+
+				Luis está hablando por teléfono con su madre
+
+				¿Qué está haciendo?
+
+			宾格 与格 自复代词
+			变位动词前 分写
+			副动词后连写 加重音
+
+				Habla , por favor . Te estmaos hablando.
+				Habla , por favor . Estamos hablándote.
+
+				Espere un momento . Me estoy vistiendo.
+				Espere un momento . Estoy vistiéndome
+
+	
+词汇
+
+	contacto	m.接触，联系
+
+		estar en contacto con uno 和某人保持联系
+
+		Todavía estoy en contacto com el señor López.
+
+	alguno		adj. 某个  某一些
+	
+		m.单数名词前 短尾 ---algún   	
+			algún día
+			Tengo algunas dudas sobre ese problema.
+
+	comentario		m.评论
+
+	precisamente	adv.恰恰
+
+	sana		adj.健康的
+
+	alegre		adj.高兴的
+
+	educado		p.p. 有教养的 
+
+		educar	
+		bien educado
+
+	aplicado 	p.p.用功的
+
+	seguramente	adv.很可能
+
+		Sguramente te va a gustar este regalo.
+
+	defecto		m.缺点
+	ventaja 	f.有点
+
+	precipitarse	急于 催促
+
+						precipítate		precipítese		
+		precipitémonos	precipitaos		precipítense
+
+							no te precipitar 	no se precipite
+		no nos percipitemos	no os precipitéis	no se precipiten
+
+	poco a poco
+
+	claro que 	当然
+
+	problema  	m.问题
+
+	relacionado	p.p. 和 ... 有关
+
+	interesar	
+
+		1. tr. 让...感兴趣 A uno intersa algo
+ 
+		2. prnl.感兴趣 uno se interesa por algo 
+
+ 			Me intereso mucho por este tema 
+
+ 	interés		m.兴趣
+
+ 	franqueza	f.坦率
+
+ 	mejorar	tr.改进
+
+ 						mejora 			mejore	
+ 		mejoremos		mejorad			mejoren
+
+ 						no mejore 		no mejore
+ 		no mejoremos	no mejoréis		no mejoren
+
+ 		uno mejora algo  
+
+ 		¿Sabes cómo mejorar tu inglés?
+
+ 	pronunciación	f.发音
+
+ 	pronunciar		tr.发音
+
+ 						pronuncia 		pronuncie 
+ 		pronunciemos	pronunciad		pronuncien
+
+ 						no pronuncies   no pronuncie
+ 		no pronunciemos	no pronunciéis	no pronuncien
+
+ 		¿Cómo pronuncias esta palabra?
+						
+ 	comprender		tr.理解 懂得
+
+ 						comprende 		comprenda	
+ 		comprendamos	comorended		comprendan
+
+ 						no comprendas 	no comprenda
+ 		no comprendamos	no comprendáis	no comprendan
+
+ 		No comprendo por qué  	我不明白为什么？
+ 		No entiendo qué quieres decir.		
+ 		¿Me entendéis?		听懂我说什么了吗？
+
+ 	entender		tr.理解 懂得
+
+ 						entende			entenda
+ 		entendamos		entended		entendan
+
+ 						no entiendas 	no entienda
+ 		no entendamos	no entiendáis	no entiendan
+
+ 	importancia		f.重要性
+ 	importante		ajd.重要的
+
+ 	mal 
+
+ 	significar		tr.意味着 意思
+
+ 		 				significa	signifique
+ 		signifiquemos	significad	signifiquen
+
+ 							no signifiques 		no signifique
+ 		no signifiquemos	no signifiquéis		no signifiquen
+
+ 		¿Qué significa esto?
+ 		Veinte kilómetros no significan nada para mí
+ 		Su expresión significa que no está muy alegre
+
+ 	por ejemplo		例如
+
+ 	confundir		tr. 混淆 弄混
+ 	confusión		f. 混乱
+
+ 						confunde 	confunda
+ 		confundamos		confundid	confundan
+
+ 						no confundas 	no confunda
+ 		no confundamos	no confundáis	no confundan 
+
+ 		uno confunde a y b
+ 		uno confunde a con b
+
+ 		Los dos hermanos son muy parecidos
+ 		Siempre los confundo
+
+ 		Confundes otra vez la p y la b
+
+ 	constantemente		adv.总是
+
+ 	cantar 			tr.品尝
+
+ 	total			adj.adv.	完全的 全部的 总之  
+
+ 	dotar			tr.赋予
+
+ 	causar			tr.造成
+
+ 		 		 		causa  		casuse
+ 		causemos		causad		casusen				
+
+ 						no causes 	no cause
+ 		no causemos		no causéis	no causen
+
+ 		Las obras de mi barrio causa muchas molestias
+
+ 	nadie			pron. 没人
+
+ 	de modo que  	因此 	por eso     porlo tanto
+
+ 	prestar atención a    注意 重视
+
+ 		Tenéis que prestar más atención a este problema
+
+ 	razón			f.道理
+
+ 	tomar en cuenta	考虑 关注
+
+
+-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+	adulto		成年人
+
+	ruido		m.声音噪音
+
+	buscar		tr.寻找
+
+					busca 		busque
+		busquemos	busqad		busquen
+
+						no busques 	no busque
+		no busquemos 	no busquéis	no busquen
+
+		buscar algo / a uno 
+
+			Un señor te busca
+
+			Estoy buscando mi móvil
+
+	encontrarse		tr.      L15 P247
+
+						encuéntrate	 	encuéntrese
+		encontremonos  	encontraos 	 	encuéntrense
+
+								no te encuentres	no se encuentre
+		no nos encontremos		no os encontréis	no se encuentren
+
+		1.找到
+
+			encontrar algo / a uno 
+
+				Eres muy desordenado		总是那么乱
+				Por eso nunca encuentras lo que busaras.	永远找不到你要找的东西
+
+				En Beijing , hay más de una librería donde se pueden encontrar novelas de escritores latinoamericanos.
+
+		2.prnl. 相遇  和某人偶遇 邂逅
+
+			uno se encuentra con otro
+			los dos se encuentran
+
+				¡Vaya casualidad!¡Mira con quién nos encontramos!
+
+				Los dos se buscan desde hace una hora pero es muy posible que se encuentren más tarde en la cafetería.
+
+				No quiero encontrarme con él ahora.
+
+		3.prnl. 位于处于
+
+			encontrarse + adj./adv./prep. (estar)
+
+				Hoy no me encuentro bien . No puedo ir a clase.
+				La biblioteca se encuentra justo al lado de nuestra residencia.
+
+		
+
+		cuento		m.故事
+		contar 		tr.讲述		L14 P 225
+
+						cuenta		cuente
+			contemos	contad		cuenten
+
+						no cuentas	no cuente
+			no contemos no contéis 	no cuenten
+
+			1.数数
+
+				La niña ya sabe contar de uno a cincuenta.
+				Nadie sabe cuántas personas haya en la calle . 
+				Imposible contarlas
+
+			2.tr.讲述
+
+				Abuelito , cuéntanos un cuento --- dicen los niños al señor García.
+
+				¡ Tanto tiempo sin vernos ! ¿Por qué no me cuentas algo de tu vida?
+
+
+		jugar 	
+
+						juega		juegue
+			juguemos	jugad		jueguen
+
+						no juegues  no juegue
+			no juguemos no juguéis 	no jueguan
+
+			1.intr.玩
+
+				jugar con uno / con algo
+
+				El niño juega en el jardín
+				No voy a jugar contigo 
+				En invierno podemos jugar con la nieve.
+
+			2.踢球 等  
+
+				jugar a + 定冠词
+
+				jugar al fútbol  /al baloncesto / al tenis / a las cartas
+
+					Cada día por la tarde los chocos juegan al fútbol.
+
+		peligroso		adj.危险的
+
+		solución 		f.解决方案
+
+		televisor		m.电视机
+		televisión  	f.电视
+
+		 	ver la televisión
+
+		programa		m.纲领 节目 日程
+
+		volunen			m.体积 音量
+
+		regar
+
+						riega		riegue
+			regemos		regad		rieguen
+
+						no riegue 	no riegue
+			no reguemos	no reguéis	no rieguen
+
+			tr.浇灌
+
+			regar algo con
+
+				Riega el atún con la salsa  给金枪鱼浇上酱汁
+
+		ensuciarse  弄脏
+
+							ensúciate		ensúciese
+			ensuciemonos	ensuciad		ensúciense
+
+								no te ensucies 	 no ensucie
+			no nos ensuciemos 	no os ensuciéis  no se ensucien
+
+			tr.- prnl.
+
+			 ensuciar(se)algo
+
+			 	No te ensucies la ropa
+
+		lugar
+
+		ahora mismo 	现在立刻马上
+
+		estorbar
+
+						estorba 		estorbe
+			estorbemos	estorbad		estorben
+							no estorbes		no estorbe
+			no estorbemos 	no estorbéis  	no estorben
+
+			tr.妨碍 打扰
+
+			estorbar a uno para 
+
+			Me estorba la ropa para nadar 
+
+			No me estorbes para trabajar.
+
+		
+
+
+
+
+
+
+
